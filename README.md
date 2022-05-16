@@ -1,2 +1,2 @@
 # bobthomson.github.io
-Thomson Lab websites
+Thomson Lab website
